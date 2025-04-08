@@ -1,2 +1,2 @@
-# ple_intro_github
-Clase 3 de PLE
+# Introducción (.)(.)
+Este es un ejercicio de introducción
